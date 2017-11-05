@@ -9,10 +9,10 @@ minimal_mistakes_skin    : "air" # "default", "contrast", "dark", "dirt", "mint"
 
 # Site Settings
 locale                   : "en"
-title                    : "Wild East Coder"
+title                    : "Majfrendmartin - The Wild East Coder"
 title_separator          : "-"
-name                     : "Paweł Raciborski"
-description              : "Is Mobile Full Stack Developar a thing?"
+name                     : &name "Paweł Raciborski"
+description              : "Is Mobile Full Stack Developar a thing? Android Development and DevOps related issues"
 url                      : "https://majfrendmartin.github.io/"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : "Majfrendmartin/majfrendmartin.github.io"
@@ -83,9 +83,9 @@ analytics:
 
 # Site Author
 author:
-  name             : "Paweł Raciborski"
+  name             : *name
   avatar           : "/assets/images/avatar.png"
-  bio              : "Is Mobile Full Stack Developar a thing?"
+  bio              : 
   location         : "Bialystok, Poland"
   email            : "raciborski.p@gmail.com"
   uri              : 
