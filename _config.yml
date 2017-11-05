@@ -84,7 +84,7 @@ analytics:
 # Site Author
 author:
   name             : "Paweł Raciborski"
-  avatar           : "/resume/images/avatar.jpg"
+  avatar           : "/assets/images/avatar.png"
   bio              : "ASDFASDFASDF"
   location         : "Bialystok, Poland"
   email            :
