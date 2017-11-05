@@ -85,7 +85,6 @@ analytics:
 author:
   name             : *name
   avatar           : "/assets/images/avatar.png"
-  bio              : AAAB
   location         : "Bialystok, Poland"
   email            : "raciborski.p@gmail.com"
   uri              : 
@@ -112,6 +111,7 @@ author:
   weibo            :
   xing             :
   youtube          : # "https://youtube.com/c/MichaelRoseDesign"
+  bio              : "Is Mobile Full Stack Developar a thing?"
 
 
 # Reading Files
