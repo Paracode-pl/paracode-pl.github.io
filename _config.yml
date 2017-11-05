@@ -85,7 +85,7 @@ analytics:
 author:
   name             : *name
   avatar           : "/assets/images/avatar.png"
-  bio              : "AAA"
+  bio              : AAA
   location         : "Bialystok, Poland"
   email            : "raciborski.p@gmail.com"
   uri              : 
