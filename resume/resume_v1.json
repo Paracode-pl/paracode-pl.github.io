@@ -105,7 +105,7 @@
     "items": [
       {
         "name": "Android",
-        "Android development with Java and Kotlin. Knowledge of both Eclipse and IntelliJ Idea (Android Studio) IDEs. Familiarity with popular (RxJava, Dagger2, Retrofit2, Butterknife) and less popular (Koin, Calligraphy) libraries. Gradle and Maven knowledge.",
+        "description":"Android development with Java and Kotlin. Knowledge of both Eclipse and IntelliJ Idea (Android Studio) IDEs. Familiarity with popular (RxJava, Dagger2, Retrofit2, Butterknife) and less popular (Koin, Calligraphy) libraries. Gradle and Maven knowledge.",
         "level": 5
       },
       {
