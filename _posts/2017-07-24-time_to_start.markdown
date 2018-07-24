@@ -1,5 +1,4 @@
 ---
-layout: post
 title:  "Time to start"
 date:   2018-07-24 22:35:22 +0100
 categories: other
