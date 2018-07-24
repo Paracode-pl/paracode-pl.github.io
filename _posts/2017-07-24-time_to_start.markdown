@@ -1,7 +1,8 @@
 ---
 title:  "Time to start"
 date:   2018-07-24 22:35:22 +0100
-categories: other
+categories: 
+  -other
 ---
 
 Welcome. This is the very first post on this blog. It's just a way to bootstrap the whole thing. If you're reading this you're either me or you have read all my other posts.
