@@ -1,5 +1,5 @@
 ---
-title:  "Time to start"
+title:  "Multiflavor app"
 date:   2018-08-04 00:42:00 +0100
 categories: 
   - development
