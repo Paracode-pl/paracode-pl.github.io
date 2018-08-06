@@ -9,13 +9,13 @@ minimal_mistakes_skin    : "air" # "default", "contrast", "dark", "dirt", "mint"
 
 # Site Settings
 locale                   : "en"
-title                    : "Majfrendmartin - The Wild East Coder"
+title                    : "Paracode Paweł Raciborski"
 title_separator          : "-"
 name                     : &name "Paweł Raciborski"
 description              : "Is Mobile Full Stack Developar a thing? Android Development and DevOps related issues"
-url                      : "https://majfrendmartin.github.io"
+url                      : "https://paracode-pl.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
-repository               : "Majfrendmartin/majfrendmartin.github.io"
+repository               : "Paracode-pl/paracode-pl.github.io"
 teaser                   : "/assets/images/avatar.png"
 # breadcrumbs            : false # true, false (default)
 words_per_minute         : 200
@@ -111,7 +111,7 @@ author:
   weibo            :
   xing             :
   youtube          : # "https://youtube.com/c/MichaelRoseDesign"
-  bio              : "Is Mobile Full Stack Developar a thing?"
+  bio              : "Something like code."
 
 
 # Reading Files
