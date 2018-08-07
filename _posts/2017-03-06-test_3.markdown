@@ -7,3 +7,5 @@ tags: test
 ---
 
 TEST 3
+
+<script src="https://gist.github.com/PawelRaciborski/e559681bd8ad8c51f3abcbfbbd25a1fb.js"/>
